@@ -34,17 +34,13 @@ I enjoy exploring datasets, building machine learning models, and solving real-w
 
 ---
 
-## 📂 Featured Projects
-(Add your projects below)
 
-- 🔹 **Project Name** – short description  
-- 🔹 **Project Name** – short description  
 
 ---
 
 ## 📫 Connect With Me
-- **Email:** your-email@example.com  
-- **LinkedIn:** your-linkedin-profile  
+- **Email:** asisingh778@gmail.com  
+  
 
 ---
 
